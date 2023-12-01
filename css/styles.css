@@ -58,6 +58,10 @@ transition: 0.1s ease-in-out;
   width: 120px;
 }
 
-#js-showing{
+.cover{
+  text-decoration: underline;
+}
+
+.js-hidden{
   display: none;
 }
