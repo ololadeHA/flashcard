@@ -2,48 +2,63 @@
   text-align: center;
   text-decoration: underline;
 }
+/* 
+button:hover{
+background-color: white;
+transition: 0.1s ease-in-out;
+} */
 
-.JS{
-  background-color: blue;
+.bg-danger{
   border-color: transparent;
-  width: 200px;
-  height: 150px;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-.opt{
-  background-color: rgb(255, 0, 183);
-  border-color: transparent;
-  width: 200px;
-  height: 150px;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-.var{
-  background-color: rgb(255, 0, 13);
-  border-color: transparent;
-  width: 200px;
-  height: 150px;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-.v-n-c{
-  background-color: rgb(255, 81, 0);
-  border-color: transparent;
-  width: 200px;
-  height: 150px;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-.fun{
-  background-color: rgb(238, 255, 0);
-  border-color: transparent;
-  width: 200px;
-  height: 150px;
+  width: 100px;
+  margin-bottom: 5px;
+  height: 60px;
   font-family: Arial, Helvetica, sans-serif;
 }
 
 
+.bg-success{
+  border-color: transparent;
+  width: 100px;
+  margin-bottom: 5px;
+  height: 60px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn:hover{
+  background-color: white;
+}
+
+.bg-info{
+  border-color: transparent;
+  width: 100px;
+  margin-bottom: 5px;
+  height: 60px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.bg-warning{
+  margin-bottom: 5px;
+  height: 60px;
+  border-color: transparent;
+  width: 100px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.bg-primary{
+  border-color: transparent;
+  width: 100px;
+  margin-bottom: 5px;
+  height: 60px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#v-n-c-showing button{
+  height: 100px;
+  width: 120px;
+}
+
+/* 
 .meth{
   background-color: rgb(13, 255, 0);
   border-color: transparent;
@@ -148,4 +163,4 @@
   width: 200px;
   height: 150px;
   font-family: Arial, Helvetica, sans-serif;
-}
+} */
