@@ -1,0 +1,20 @@
+.h1{
+  text-align: center;
+  text-decoration: underline;
+}
+
+.JS{
+  background-color: blue;
+  border-color: transparent;
+  width: 200px;
+  height: 150px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.opt{
+  background-color: rgb(255, 0, 183);
+  border-color: transparent;
+  width: 200px;
+  height: 150px;
+  font-family: Arial, Helvetica, sans-serif;
+}
