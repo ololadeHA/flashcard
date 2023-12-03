@@ -112,43 +112,31 @@ transition: 0.1s ease-in-out;
 }
 
 
-.Variables-hidden{
+.Undefined-hidden{
   display: none;
 }
 
-.Variables-hidden{
+.NaN-hidden{
   display: none;
 }
 
-.Variables-hidden{
+.Null-hidden{
   display: none;
 }
 
-.Variables-hidden{
+.Alert-hidden{
   display: none;
 }
 
-.Variables-hidden{
+.Comment-hidden{
   display: none;
 }
 
-.Variables-hidden{
+.Jquery-hidden{
   display: none;
 }
 
-.Variables-hidden{
+.Attributes-hidden{
   display: none;
 }
 
-
-.Variables-hidden{
-  display: none;
-}
-
-.Variables-hidden{
-  display: none;
-}
-
-.Variables-hidden{
-  display: none;
-}
